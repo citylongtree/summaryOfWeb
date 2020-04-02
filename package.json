@@ -1,0 +1,22 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "The konwledge summary of web, about HTML、JavaScript ...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suciy/summaryOfWeb.git"
+  },
+  "keywords": [
+    "web"
+  ],
+  "author": "Suciy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suciy/summaryOfWeb/issues"
+  },
+  "homepage": "https://github.com/suciy/summaryOfWeb#readme"
+}
